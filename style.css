@@ -1,0 +1,63 @@
+body
+{
+    text-align: center;  
+    font-family: 'Abril Fatface', cursive;
+}
+
+h2
+{
+    text-shadow: 2px 2px 8px #ff008c;
+}
+
+.main_div
+{
+    height: 93%;
+    width: 100%;
+    background: radial-gradient(rgb(241, 232, 232), rgb(241, 77, 159), rgb(155, 11, 64));
+}
+#btn
+{
+    margin-top: 50px;
+    width: 150px;
+    background-color: antiquewhite;
+    color: black;
+}
+
+#result_label
+{
+    color: rgb(12, 12, 103);
+    font-family: 'Roboto Slab', serif;
+    font-weight: bolder;
+}
+.header_div
+{
+    background-color: white;
+}
+.header_div p
+{
+    font-family: 'Roboto Slab', serif;
+    color: lightcoral;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+.copyright_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: rgb(3, 63, 101);
+    font-size: 20px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgba(156, 152, 152, 0.84);
+}
+.main_div button
+{
+    margin-top: 30px;
+    width: 30%;
+    font-weight: bold;
+    letter-spacing: 3px;
+    
+}
